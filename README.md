@@ -10,7 +10,6 @@
 <p align="center">
   <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="45%" />
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="45%" />
-  <img src="/metrics.plugin.habits.facts.svg" alt="Habits" width="45%" />
 </p>
 
 <!--
@@ -62,6 +61,8 @@
 <!-- - [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud) 
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud) 
 - [![AtCoder](https://img.shields.io/badge/AtCoder-@aehabdelouadoud-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/aehabdelouadoud)
+
+<img src="/metrics.plugin.habits.facts.svg" alt="Habits" width="45%" />
 -->
 
 <!--
