@@ -4,6 +4,21 @@
 
 ---
 
+<div style="font-size: 24px; font-family: Arial, sans-serif; text-align: center; animation: fadeIn 3s infinite;">
+    "The best way to predict the future is to invent it." – Alan Kay
+</div>
+
+<style>
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+}
+</style>
+
+
+---
+
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="45%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="45%" />
