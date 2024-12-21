@@ -4,17 +4,9 @@
 
 ---
 
-<div style="font-size: 24px; font-family: Arial, sans-serif; text-align: center; animation: fadeIn 3s infinite;">
-    "The best way to predict the future is to invent it." – Alan Kay
-</div>
-
-<style>
-@keyframes fadeIn {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.;-+Cory+House" alt="Typing Animation" />
+</p>
 
 
 ---
