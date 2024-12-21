@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.;-+Cory+House" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+code+and+learn+every+day!;Embrace+challenges+and+grow." alt="Typing Animation" />
 </p>
 
 
