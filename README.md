@@ -12,6 +12,7 @@
 
 <p align="center">
   <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="45%" />
+  <img src="/metrics.plugin.habits.facts.svg" alt="Habits" width="45%" />
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="45%" />
 </p>
 
