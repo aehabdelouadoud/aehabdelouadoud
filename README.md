@@ -61,7 +61,7 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
 
-<div style="text-align: center;">
+<div style="align: center;">
   <h2>
     <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> 
     Let's Connect! 
