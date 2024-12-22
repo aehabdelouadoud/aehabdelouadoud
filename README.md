@@ -54,6 +54,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
 - [![X](https://img.shields.io/badge/X-@aehabdelouadoud-%2312100E?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud)
+- [![Discord](https://img.shields.io/badge/Discord-@aehabdelouadoud-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/aehabdelouadoud)
 - [![Medium](https://img.shields.io/badge/Medium-@aehabdelouadoud-%2300ab6b?style=flat&logo=medium&logoColor=white)](https://medium.com/@aehabdelouadoud)
 - [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aehabdelouadoud)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
