@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+World!;Embrace+the+impossible;Let’s+grow,+innovate,+and+learn+together!" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="45%" />
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="45%" />
+<p align="right">
+  <img src="/github-metrics.svg" alt="Metrics" width="50%" />
+  <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="50%" />
 </p>
 
-<p align="center">
-  <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="45%" />
-  <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="45%" />
+<p align="left">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="50%" />
+  <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="50%" />
 </p>
 
 <!--
