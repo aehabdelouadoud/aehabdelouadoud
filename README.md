@@ -49,7 +49,7 @@
 </p>
 
 -->
-<!--
+
 ## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> Let's Connect! `Note: In order to open this in external tabs use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)`
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
@@ -60,62 +60,6 @@
 - [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
--->
-
-<div style="text-align: center;">
-  <h2>
-    <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> 
-    Let's Connect! 
-    <br>
-    <span style="font-size: 14px; color: #555;">
-      Note: In order to open this in external tabs use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)
-    </span>
-  </h2>
-  
-  <ul style="list-style-type: none; padding: 0;">
-    <li>
-      <a href="https://www.linkedin.com/in/aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </li>
-    <li>
-      <a href="https://x.com/aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/X-@aehabdelouadoud-%2312100E?style=flat&logo=x&logoColor=white" alt="X">
-      </a>
-    </li>
-    <li>
-      <a href="https://discord.com/users/aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-@aehabdelouadoud-%237289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
-      </a>
-    </li>
-    <li>
-      <a href="https://medium.com/@aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-@aehabdelouadoud-%2300ab6b?style=flat&logo=medium&logoColor=white" alt="Medium">
-      </a>
-    </li>
-    <li>
-      <a href="https://www.youtube.com/@aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
-      </a>
-    </li>
-    <li>
-      <a href="https://dev.to/aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to">
-      </a>
-    </li>
-    <li>
-      <a href="https://leetcode.com/aehabdelouadoud" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23f7b93e?style=flat&logo=leetcode&logoColor=white" alt="LeetCode">
-      </a>
-    </li>
-    <li>
-      <a href="https://stackoverflow.com/users/28723716" target="_blank">
-        <img src="https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-      </a>
-    </li>
-  </ul>
-</div>
-
 
 <!-- - [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud) 
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud) 
