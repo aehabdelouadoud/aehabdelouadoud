@@ -8,8 +8,8 @@
 </p>
 
 <p align="left">
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="50%" />
-  <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="50%" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="45%" />
+  <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="45%" />
 </p>
 
 <!--
