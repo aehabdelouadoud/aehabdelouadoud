@@ -2,17 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+World!;Embrace+the+impossible;Let’s+grow,+innovate,+and+learn+together!" alt="Typing Animation" />
 </p>
 
-<div style="text-align: right;">
+<p align="right">
   <img src="/github-metrics.svg" alt="Metrics" width="50%" />
   <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="50%" />
-</div>
+</p>
 
-<div style="text-align: left;">
+<p align="left">
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="40%" />
   <br>
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="40%" />
-</div>
-
+</p>
 
 <!--
 ## 🛠️ Skills
