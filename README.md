@@ -50,7 +50,7 @@
 
 -->
 
-## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> <small><b>Let's grow together!</b>Note: In order to open links in external tabs, use <kbd>CTRL</kbd>+<small>click</small> (on Windows and Linux) or <kbd>CMD</kbd>+<small>click</small> (on macOS).</small>
+## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> <small><large>Let's grow together!</large> Note: In order to open links in external tabs, use <kbd>CTRL</kbd>+<small>click</small> (on Windows and Linux) or <kbd>CMD</kbd>+<small>click</small> (on macOS).</small>
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%23CA9B53?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
 - [![X](https://img.shields.io/badge/X-@aehabdelouadoud-%23CA9B53?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud)
