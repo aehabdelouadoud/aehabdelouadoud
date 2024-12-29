@@ -61,18 +61,6 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23CA9B53?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23CA9B53?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23CA9B53?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
-- [![Medium](https://img.shields.io/badge/Medium-@aehabdelouadoud-%23CA9B53?style=flat&logo=medium&logoColor=white)](https://medium.com/@aehabdelouadoud)
-- [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23CA9B53?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aehabdelouadoud)
-
-- [![X](https://img.shields.io/badge/X-@aehabdelouadoud-%23CA9B53?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud)
-- [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23CA9B53?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
-- [![Discord](https://img.shields.io/badge/Discord-@aehabdelouadoud-%23CA9B53?style=flat&logo=discord&logoColor=white)](https://discord.com/users/aehabdelouadoud)
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%23CA9B53?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
-- [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23CA9B53?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
-
-
 <!-- - [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud) 
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud) 
 - [![AtCoder](https://img.shields.io/badge/AtCoder-@aehabdelouadoud-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/aehabdelouadoud)
