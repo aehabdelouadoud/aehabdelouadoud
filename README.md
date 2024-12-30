@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=BF9852&center=true&vCenter=true&width=700&lines=Hello+World!;Embrace+the+impossible;Let’s+grow,+innovate,+and+learn+together!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=BF9852&center=true&vCenter=true&width=700&lines=Hello+World!;Embrace+the+impossible;Let’s+grow,+innovate,+and+learn+together!;Code+Is+An+Art!+Reading+Is+Another+One!;Live+Life!;+It+Is+There+In+You're+Imagination" alt="Typing Animation" />
 </p>
 
 <!--
