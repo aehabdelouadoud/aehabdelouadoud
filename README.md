@@ -48,8 +48,7 @@
 -->
 
 ### <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> Let's grow together!
-<p style="font-size: 10px;">Note: In order to open links in external tabs, use <kbd>CTRL</kbd>+<small>click</small> (on Windows and Linux) or <kbd>CMD</kbd>+<small>click</small> (on macOS).</p>
-
+> **Note:** Note: In order to open links in external tabs, use <kbd>CTRL</kbd>+<small>click</small> (on Windows and Linux) or <kbd>CMD</kbd>+<small>click</small> (on macOS).
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%23CA9B53?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
 - [![X](https://img.shields.io/badge/X-@aehabdelouadoud-%23CA9B53?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud)
