@@ -4,12 +4,12 @@
 
 
 <p align="right">
-  <img src="/github-metrics.svg" alt="Metrics" width="50%" />
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="40%" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="100%" />
 </p>
 <!--
 <p align="left">
     <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="50%" />
+    <img src="/github-metrics.svg" alt="Metrics" width="50%" />
   <br>
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="40%" />
 </p>
