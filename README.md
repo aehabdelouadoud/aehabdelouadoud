@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=BF9852&center=true&vCenter=true&width=700&lines=Hello+World!;Embrace+the+impossible;Let’s+grow,+innovate,+and+learn+together!;Code+Is+An+Art!+Reading+Is+Another+One!;Live+Life!;+It+Is+There+In+You're+Imagination" alt="Typing Animation" />
 </p>
 
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="100%" />
 
-<p align="right">
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="100%" />
-</p>
 <!--
 <p align="left">
     <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="50%" />
