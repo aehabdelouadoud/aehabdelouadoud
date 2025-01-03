@@ -4,7 +4,7 @@
 
 <img src="/github-metrics.svg" alt="Metrics" width="45%" align="left"/> <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="50%" align="right"/>
 
----
+--
 
 <!--
 <p align="left">
