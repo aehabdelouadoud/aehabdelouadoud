@@ -7,8 +7,9 @@
 # @aehabdelouadoud 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aehabdelouadoud"><img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/aehabdelouadoud"><img src="https://img.shields.io/github/followers/aehabdelouadoud.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://x.com/aehabdelouadoud"><img src="https://img.shields.io/badge/X-@aehabdelouadoud-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/aehabdelouadoud"><img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/users/aehabdelouadoud"><img src="https://img.shields.io/badge/Discord-@aehabdelouadoud-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://medium.com/@aehabdelouadoud"><img src="https://img.shields.io/badge/Medium-@aehabdelouadoud-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.youtube.com/@aehabdelouadoud"><img src="https://img.shields.io/badge/YouTube-@aehabdelouadoud-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
