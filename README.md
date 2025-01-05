@@ -4,6 +4,20 @@
 
 <img src="/github-metrics.svg" alt="Metrics" width="45%"/> <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="50%"/>
 
+# @aehabdelouadoud 👋
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aehabdelouadoud"><img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/aehabdelouadoud"><img src="https://img.shields.io/badge/X-@aehabdelouadoud-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://discord.com/users/aehabdelouadoud"><img src="https://img.shields.io/badge/Discord-@aehabdelouadoud-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://medium.com/@aehabdelouadoud"><img src="https://img.shields.io/badge/Medium-@aehabdelouadoud-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.youtube.com/@aehabdelouadoud"><img src="https://img.shields.io/badge/YouTube-@aehabdelouadoud-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://dev.to/aehabdelouadoud"><img src="https://img.shields.io/badge/Dev.to-@aehabdelouadoud-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://leetcode.com/aehabdelouadoud"><img src="https://img.shields.io/badge/LeetCode-@aehabdelouadoud-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://stackoverflow.com/users/28723716"><img src="https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-F58025?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+</p>
+
+
 <!--
 <p align="left">
     <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="50%" />
@@ -47,11 +61,13 @@
 
 -->
 
+<!--
+
 ### <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="20"> Let's grow together!
 > **Note:** Note: In order to open links in external tabs, use <kbd>CTRL</kbd>+<small>click</small> (on Windows and Linux) or <kbd>CMD</kbd>+<small>click</small> (on macOS).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud) [![X](https://img.shields.io/badge/X-@aehabdelouadoud-000000?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud) [![Discord](https://img.shields.io/badge/Discord-@aehabdelouadoud-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/aehabdelouadoud) [![Medium](https://img.shields.io/badge/Medium-@aehabdelouadoud-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@aehabdelouadoud) [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aehabdelouadoud) [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud) [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud) [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
-
+-->
 
 <!-- - [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud) 
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud) 
