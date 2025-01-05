@@ -7,15 +7,38 @@
 # @aehabdelouadoud 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aehabdelouadoud"><img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/aehabdelouadoud"><img src="https://img.shields.io/badge/X-@aehabdelouadoud-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://discord.com/users/aehabdelouadoud"><img src="https://img.shields.io/badge/Discord-@aehabdelouadoud-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://medium.com/@aehabdelouadoud"><img src="https://img.shields.io/badge/Medium-@aehabdelouadoud-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.youtube.com/@aehabdelouadoud"><img src="https://img.shields.io/badge/YouTube-@aehabdelouadoud-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://dev.to/aehabdelouadoud"><img src="https://img.shields.io/badge/Dev.to-@aehabdelouadoud-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://leetcode.com/aehabdelouadoud"><img src="https://img.shields.io/badge/LeetCode-@aehabdelouadoud-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://stackoverflow.com/users/28723716"><img src="https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-F58025?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://github.com/aehabdelouadoud"><img src="https://img.shields.io/github/followers/spf13.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/aehabdelouadoud"><img src="https://img.shields.io/twitter/follow/spf13?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/stevefrancia"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://reddit.com/u/aehabdelouadoud"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/spf13?style=social"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/golang/go"><img src="https://img.shields.io/github/stars/golang/go.svg?label=Go&style=social" alt="Go on GitHub"></a>
+  <a href="https://github.com/gohugoio/hugo"><img src="https://img.shields.io/github/stars/gohugoio/hugo.svg?label=Hugo&style=social" alt="Hugo on GitHub"></a>
+  <a href="https://github.com/aehabdelouadoud/cobra"><img src="https://img.shields.io/github/stars/spf13/cobra.svg?label=Cobra&style=social" alt="Cobra on Github"></a>
+  <a href="https://github.com/aehabdelouadoud/viper"><img src="https://img.shields.io/github/stars/spf13/viper.svg?label=Viper&style=social" alt="Viper on GitHub"></a>
+  <a href="https://github.com/aehabdelouadoud/spf13-vim"><img src="https://img.shields.io/github/stars/spf13/spf13-vim.svg?label=spf13-vim&style=social" alt="spf13-vim on GitHub"></a>
+</p>
+<p align="center">
+  <span> Former:   </span>
+  <a href="https://github.com/moby/moby"><img src="https://img.shields.io/github/stars/moby/moby.svg?label=Moby&style=social" alt="Moby on GitHub"></a>
+  <a href="https://github.com/mongodb/mongo"><img src="https://img.shields.io/github/stars/mongodb/mongo.svg?label=MongoDB&style=social" alt="MongoDB on GitHub"></a>
+</p>
+
+<!--
+**aehabdelouadoud/spf13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 <!--
