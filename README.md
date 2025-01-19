@@ -50,4 +50,17 @@ arch in ~
   </sup>
 </samp>
 
+<samp>
+  <sup>
+    <b>
+      <i><i class="fas fa-handshake"></i> Let's connect!!</i>
+    </b>
+    <br>
+    <a href="https://www.linkedin.com/in/aehabdelouadoud"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    <a href="https://x.com/aehabdelouadoud"><i class="fab fa-twitter"></i> X</a>
+    <a href="https://medium.com/@aehabdelouadoud"><i class="fab fa-medium"></i> Medium</a>
+    <a href="https://www.youtube.com/@aehabdelouadoud"><i class="fab fa-youtube"></i> YouTube</a>
+  </sup>
+</samp>
+
 </p>
