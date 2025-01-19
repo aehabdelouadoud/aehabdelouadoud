@@ -34,7 +34,7 @@
   ."'             '".            "ななころびやおき" 龍 
 
 arch in ~ 
-  λ echo "ふうりんかざん"
+  λ echo "少ないほど豊か" > life-motto.txt
 ```
 
 <p align="center">
