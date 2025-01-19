@@ -24,7 +24,7 @@
 
 ```
 
-           .             ​ aehabdelouadoud@world
+           .             ​       aehabdelouadoud@world
           .c.           ┌───────────────────────────────────┐ 
          .ccc.           ​ OS : Ait El Haj Abdelouadoud 
         .lllll.          ​ Kernel :  UNIVERSE0x
@@ -33,7 +33,7 @@
      .lcc'   'ccc.       ​ Uptime : 19 years
     .ccc'     'cc:.      ​ CPU : RYŪ 0x1000
    .cccc'     'c:;..    └───────────────────────────────────┘ 
-  ."'             '".            "ななころびやおき" 龍 
+  ."'             '".             "ななころびやおき" 龍 
 
 arch in ~ 
   λ echo "少ないほど豊か" > life-motto.txt
