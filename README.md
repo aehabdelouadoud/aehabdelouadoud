@@ -50,6 +50,7 @@ arch in ~
     <a href="https://x.com/aehabdelouadoud"> X</a>
     <a href="https://medium.com/@aehabdelouadoud"> Medium</a>
     <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
+    <a href="mailto:mailme.dealt368@passinbox.com">mail</a>
   </sup>
 </samp>
 
