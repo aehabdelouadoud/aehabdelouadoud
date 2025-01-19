@@ -8,7 +8,7 @@
       <b>
         Hello world!
       </b>
-      <br>"ふうりんかざん"</b>
+      <b>"ふうりんかざん"</b>
       <br>
       Let's grow together!
       <br>
