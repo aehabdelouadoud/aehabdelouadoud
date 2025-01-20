@@ -5,19 +5,16 @@
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
     <samp>
-      <b>
-        Hello world!
-      </b>
       <br>
-      <b>"ふうりんかざん"</b>
+        <b>"ふうりんかざん"</b>
       <br>
-      Let's grow together!
+        <b>Hello world!</b>
       <br>
-      I use Arch BTW!
+        <em>Let's grow together!</em>
       <br>
-      <b>
-        ~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~
-      </b>
+        <u>I use Arch BTW!</u>
+      <br>
+      <b>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</b>
     </samp>
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
