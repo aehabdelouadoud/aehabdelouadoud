@@ -48,6 +48,13 @@ arch in ~
     <a href="https://medium.com/@aehabdelouadoud"> Medium</a>
     <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
     <a href="mailto:mailme.dealt368@passinbox.com">email</a>
+  </sup>
+      
+  <sup>
+    <b>
+      <i> If you want to support me Buy me a PIZZAA!!!!</i>
+    </b>
+    <br>
     <a href="https://buymeacoffee.com/aitelhajabdelouadoud">Buy me a coffee</a>
   </sup>
 </samp>
