@@ -48,7 +48,7 @@ arch in ~
     <a href="https://medium.com/@aehabdelouadoud"> Medium</a>
     <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
     <a href="mailto:mailme.dealt368@passinbox.com">email</a>
-    <a href="buymeacoffee.com/aitelhajabdelouadoud">Buy me a coffee</a>
+    <a href="https://buymeacoffee.com/aitelhajabdelouadoud">Buy me a coffee</a>
   </sup>
 </samp>
 
