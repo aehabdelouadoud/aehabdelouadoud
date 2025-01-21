@@ -52,7 +52,7 @@ arch in ~
   <br>
   <sup>
     <b>
-      <i> If you want to support me Buy me a PIZZAA!!!!</i>
+      <i> Support me by Buying me a PIZZAA!!!!</i>
     </b>
     <br>
     <a href="https://buymeacoffee.com/aitelhajabdelouadoud">Buy me a coffee</a>
