@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <br>
-      Choose a lang: [ar](README_JP.md)
+      Choose a lang: (ar)[README_JP.md]
       <br>
       <br>
         <b>"ふうりんかざん"</b>
