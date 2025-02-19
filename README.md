@@ -4,14 +4,6 @@
 <!-- Profile -->
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
-    <!-- Language Selection -->
-    # Choose Your Language / Elige tu idioma / 选择语言 / Choisissez votre langue / اختيار اللغة
-    - [English](README.md)
-    - [日本語 (Japanese)](README_JP.md)
-    - [Español (Spanish)](README_SP.md)
-    - [中文 (Mandarin)](README_CN.md)
-    - [Français (French)](README_FR.md)
-- [العربية (Arabic)](README_AR.md)
     <samp>
       <br>
         <b>"ふうりんかざん"</b>
