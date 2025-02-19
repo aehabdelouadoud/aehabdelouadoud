@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <br>
-        Choose a language: [Japanese](README_JP.md)
+        Choose a language: <a href="README_JP.md">Japanese</a>
       <br>
       <br>
         <b>"ふうりんかざん"</b>
