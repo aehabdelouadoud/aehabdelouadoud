@@ -5,6 +5,7 @@
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
     <samp>
+      Well, it's not a fancy README—I believe **minimalism** is the ultimate life motto.
       <br>
         <a href="README_JP.md">日本語</a> <a href="README_CN.md">中文</a> <a href="README_SP.md">español</a> <a href="README_DE.md">Deutsch</a> <a href="README_AR.md">العربية</a>
       <br>
