@@ -43,19 +43,19 @@ arch in ~
 
 <!-- Retro Tools Section -->
 <p align="center">
-  <b><i>Retro Tools in My Toolbox:</i></b>
+  <b><i>Tools:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-  [OS]        Arch Linux
-  [WM]        Hyprland
-  [Shell]     fish
-  [Editor]    Neovim
-  [Terminal]  Alacritty
-  [Programming]  Rust, Python, C/C++
+  [OS]        Arch Linux, NixOS, VoidLinux
+  [WM]        Hyprland, DWM
+  [Shell]     fish, bash
+  [Editor]    Neovim, vim
+  [Terminal]  Foot, Kitty
+  [Programming]  Rust, Python, C/C++, Go
   [Containerization] Docker
-  [Version Control] Git, GitHub
-  [Tool for Server Management] tmux
-  [Terminal Multiplexer] Byobu
+  [Version Control] Git, GitHub, GitLab
+  <!-- [Tool for Server Management] tmux
+  [Terminal Multiplexer] Byobu -->
   </pre>
 </p>
 
