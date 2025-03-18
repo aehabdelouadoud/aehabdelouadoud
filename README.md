@@ -41,6 +41,24 @@ arch in ~
   λ echo "少ないほど豊か" > life-motto.txt
 ```
 
+<!-- Retro Tools Section -->
+<p align="center">
+  <b><i>Retro Tools in My Toolbox:</i></b>
+  <br>
+  <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
+  [OS]        Arch Linux
+  [WM]        Hyprland
+  [Shell]     fish
+  [Editor]    Neovim
+  [Terminal]  Alacritty
+  [Programming]  Rust, Python, C/C++
+  [Containerization] Docker
+  [Version Control] Git, GitHub
+  [Tool for Server Management] tmux
+  [Terminal Multiplexer] Byobu
+  </pre>
+</p>
+
 <p align="center">
 <samp>
   <sup>
@@ -67,20 +85,3 @@ arch in ~
 
 </p>
 
-<!-- Retro Tools Section -->
-<p align="center">
-  <b><i>Retro Tools in My Toolbox:</i></b>
-  <br>
-  <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-  [OS]        Arch Linux
-  [WM]        Hyprland
-  [Shell]     fish
-  [Editor]    Neovim
-  [Terminal]  Alacritty
-  [Programming]  Rust, Python, C/C++
-  [Containerization] Docker
-  [Version Control] Git, GitHub
-  [Tool for Server Management] tmux
-  [Terminal Multiplexer] Byobu
-  </pre>
-</p>
