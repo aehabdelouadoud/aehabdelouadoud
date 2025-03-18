@@ -73,6 +73,7 @@ arch in ~
     <a href="mailto:mailme.dealt368@passinbox.com">email</a>
     <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
   </sup>
+  <!--
   <br>
   <sup>
     <b>
@@ -81,6 +82,7 @@ arch in ~
     <br>
     <a href="https://www.buymeacoffee.com/aitelhajabdelouadoud">Buy me a coffee</a>
   </sup>
+  -->
 </samp>
 
 </p>
