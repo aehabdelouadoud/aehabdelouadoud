@@ -46,14 +46,14 @@ arch in ~
   <b><i>Tools:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-  [OS]        Arch Linux, NixOS, VoidLinux
-  [WM]        Hyprland, DWM
-  [Shell]     fish, bash
-  [Editor]    Neovim, vim
-  [Terminal]  Foot, Kitty
-  [Programming]  Rust, Python, C/C++, Go
+  [OS]               Arch Linux, NixOS, VoidLinux
+  [WM]               Hyprland, DWM
+  [Shell]            fish, bash
+  [Editor]           Neovim, vim
+  [Terminal]         Foot, Kitty
+  [Programming]      Rust, Python, C/C++, Go
   [Containerization] Docker
-  [Version Control] Git, GitHub, GitLab
+  [Version Control]  Git, GitHub, GitLab
   <!-- [Tool for Server Management] tmux
   [Terminal Multiplexer] Byobu -->
   </pre>
@@ -72,6 +72,7 @@ arch in ~
     <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
     <a href="mailto:mailme.dealt368@passinbox.com">email</a>
     <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
+    <a href="https://discord.com/users/1133976190709940345">Discord</a>
   </sup>
   <!--
   <br>
