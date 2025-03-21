@@ -1,3 +1,22 @@
+<p align="center">
+<samp>
+  <sup>
+    <b>
+      <i> Let's connect!!</i>
+    </b>
+    <br>
+    <a href="https://www.linkedin.com/in/aehabdelouadoud"> LinkedIn</a>
+    <a href="https://x.com/aehabdelouadoud"> X</a>
+    <a href="https://medium.com/@aehabdelouadoud"> Medium</a>
+    <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
+    <a href="mailto:mailme.dealt368@passinbox.com">email</a>
+    <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
+    <a href="https://discord.com/users/1133976190709940345">Discord</a>
+    <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
+  </sup>
+</samp>
+</p>
+
 <!-- Ait El Haj Abdelouadoud GitHub Profile -->
 <div align="justify">
 
@@ -58,24 +77,3 @@ arch in ~
   [Terminal Multiplexer] Byobu -->
   </pre>
 </p>
-
-<p align="center">
-<samp>
-  <sup>
-    <b>
-      <i> Let's connect!!</i>
-    </b>
-    <br>
-    <a href="https://www.linkedin.com/in/aehabdelouadoud"> LinkedIn</a>
-    <a href="https://x.com/aehabdelouadoud"> X</a>
-    <a href="https://medium.com/@aehabdelouadoud"> Medium</a>
-    <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
-    <a href="mailto:mailme.dealt368@passinbox.com">email</a>
-    <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
-    <a href="https://discord.com/users/1133976190709940345">Discord</a>
-    <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
-  </sup>
-</samp>
-
-</p>
-
