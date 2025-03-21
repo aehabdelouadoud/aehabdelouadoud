@@ -73,17 +73,8 @@ arch in ~
     <a href="mailto:mailme.dealt368@passinbox.com">email</a>
     <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
     <a href="https://discord.com/users/1133976190709940345">Discord</a>
+    <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
   </sup>
-  <!--
-  <br>
-  <sup>
-    <b>
-      <i> Support me by Buying me a PIZZAA!!!!</i>
-    </b>
-    <br>
-    <a href="https://www.buymeacoffee.com/aitelhajabdelouadoud">Buy me a coffee</a>
-  </sup>
-  -->
 </samp>
 
 </p>
