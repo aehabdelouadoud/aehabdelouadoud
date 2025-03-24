@@ -60,7 +60,7 @@ arch in ~
   λ echo "少ないほど豊か" > life-motto.txt
 ```
 
-<!-- Retro Tools Section -->
+<!-- Tools Section -->
 <p align="center">
   <b><i>Tools:</i></b>
   <br>
@@ -73,7 +73,5 @@ arch in ~
   [Programming]      Rust, Python, C/C++, Go
   [Containerization] Docker
   [Version Control]  Git, GitHub, GitLab
-  <!-- [Tool for Server Management] tmux
-  [Terminal Multiplexer] Byobu -->
   </pre>
 </p>
