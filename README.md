@@ -70,7 +70,7 @@ arch in ~
   [Shell]            fish, bash
   [Editor]           Neovim, vim
   [Terminal]         Foot, Kitty
-  [Programming]      Rust, Python, C/C++, Go
+  [Programming]      Lua, C/C++ <!--, Rust, Python, Go -->
   [Containerization] Docker
   [Version Control]  Git, GitHub, GitLab
   </pre>
