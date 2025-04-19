@@ -84,12 +84,12 @@ arch in ~
   <b><i>Tools:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-  [OS]               Void Linux, NixOS
-  [WM]               DWL, Hyprland
-  [Shell]            sh, bash, fish
-  [Editor]           Vim, NeoVim
-  [Terminal]         Foot
-  [Programming]      Lua, C/C++, Rust
-  [Version Control]  Git, GitHub, GitLab, Codeberg
+  [OS]                         Void Linux, NixOS
+  [WM]                      DWL, Hyprland
+  [Shell]                     sh, bash, fish
+  [Editor]                   Vim, NeoVim
+  [Terminal]              Foot
+  [Programming]     Lua, C/C++, Rust
+  [Version Control]  Git,  <a href="https://gitlab.com/aehabdelouadoud">GitHub</a>, <a href="https://codeberg.org/aehabdelouadoud">Codeberg</a>
   </pre>
 </p>
