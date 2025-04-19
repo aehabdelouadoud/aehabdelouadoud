@@ -45,7 +45,7 @@
     <samp>
       Well, it's <b>not</b> a <b>fancy</b> README—because I believe <b>minimalism</b> is the <i>ultimate</i> life motto.
       <br>
-        <a href="README_JP.md">日本語</a> <a href="README_CN.md">中文</a> <a href="README_SP.md">español</a> <a href="README_DE.md">Deutsch</a> <a href="README_AR.md">العربية</a>
+        <a href="README_DE.md">Deutsch</a>
       <br>
         <b>"ふうりんかざん"</b>
       <br>
