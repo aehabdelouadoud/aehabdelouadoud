@@ -62,6 +62,7 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
+<!--
 ```
 
            .             ​       aehabdelouadoud@world
@@ -78,6 +79,7 @@
 arch in ~ 
   λ echo "少ないほど豊か" > life-motto.txt
 ```
+-->
 
 <!-- Tools Section -->
 <p align="center">
