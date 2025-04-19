@@ -78,7 +78,7 @@ arch in ~
 <p align="center">
   <b><i>Tools:</i></b>
   <br>
-  <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
+  <pre style="background-color:#2b2b2b; color:#a89984; padding:20px;">
 [OS]                         <a href="https://voidlinux.org/">Void Linux</a>, <a href="https://nixos.org/">NixOS</a>
 [WM]                         <a href="https://dwm.suckless.org/">DWL</a>, <a href="https://hyprland.org/">Hyprland</a>
 [Shell]                      <a href="https://www.gnu.org/software/bash/">sh</a>, <a href="https://www.gnu.org/software/bash/">bash</a>, <a href="https://fishshell.com/">fish</a>
