@@ -86,12 +86,6 @@ arch in ~
 [Terminal]                   <a href="https://codeberg.org/foot">Foot</a><br>
 [Programming]                <a href="https://www.lua.org/">Lua</a>, <a href="https://isocpp.org/">C/C++</a>, <a href="https://www.rust-lang.org/">Rust</a><br>
 [Version Control]            <a href="https://git-scm.com/">Git</a>, <a href="https://gitlab.com/aehabdelouadoud">GitHub</a>, <a href="https://codeberg.org/aehabdelouadoud">Codeberg</a><br>
-[Browser]                    <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a>, <a href="https://www.chromium.org/">Chromium</a><br>
-[File Manager]               <a href="https://github.com/PCMan/PCManFM">PCManFM</a>, <a href="https://github.com/ranger/ranger">Ranger</a><br>
-[Music Player]               <a href="https://www.spotify.com/">Spotify</a>, <a href="https://github.com/mps-youtube/mps-youtube">Mps-youtube</a><br>
-[Cloud Storage]              <a href="https://www.google.com/drive/">Google Drive</a>, <a href="https://www.dropbox.com/">Dropbox</a><br>
-[Backup Tool]                <a href="https://www.rsync.org/">Rsync</a>, <a href="https://github.com/rsnapshot/rsnapshot">rsnapshot</a><br>
-[Text Editor]                <a href="https://www.sublimetext.com/">Sublime Text</a>, <a href="https://atom.io/">Atom</a><br>
 [Containerization]           <a href="https://www.docker.com/">Docker</a>, <a href="https://podman.io/">Podman</a><br>
 [Virtualization]             <a href="https://www.qemu.org/">QEMU</a><br>
   </pre>
