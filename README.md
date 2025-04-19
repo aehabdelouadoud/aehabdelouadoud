@@ -21,7 +21,7 @@
 <samp>
   <sup>
     <b>
-      <i> Let's connect!!</i>
+      <b><i> Let's connect!!</i></b>
     </b>
     <br>
     <a href="https://www.linkedin.com/in/aehabdelouadoud"> LinkedIn</a>
