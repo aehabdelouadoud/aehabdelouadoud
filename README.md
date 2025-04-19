@@ -84,12 +84,12 @@ arch in ~
   <b><i>Tools:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-  [OS]                         Void Linux, NixOS
-  [WM]                      DWL, Hyprland
-  [Shell]                     sh, bash, fish
-  [Editor]                   Vim, NeoVim
-  [Terminal]              Foot
-  [Programming]     Lua, C/C++, Rust
-  [Version Control]  Git,  <a href="https://gitlab.com/aehabdelouadoud">GitHub</a>, <a href="https://codeberg.org/aehabdelouadoud">Codeberg</a>
+    [OS]                         <a href="https://voidlinux.org/">Void Linux</a>, <a href="https://nixos.org/">NixOS</a><br>
+    [WM]                       <a href="https://dwm.suckless.org/">DWL</a>, <a href="https://hyprland.org/">Hyprland</a><br>
+    [Shell]                     <a href="https://www.gnu.org/software/bash/">sh</a>, <a href="https://www.gnu.org/software/bash/">bash</a>, <a href="https://fishshell.com/">fish</a><br>
+    [Editor]                   <a href="https://www.vim.org/">Vim</a>, <a href="https://neovim.io/">NeoVim</a><br>
+    [Terminal]              <a href="https://codeberg.org/foot">Foot</a><br>
+    [Programming]     <a href="https://www.lua.org/">Lua</a>, <a href="https://isocpp.org/">C/C++</a>, <a href="https://www.rust-lang.org/">Rust</a><br>
+    [Version Control]  <a href="https://git-scm.com/">Git</a>, <a href="https://gitlab.com/aehabdelouadoud">GitHub</a>, <a href="https://codeberg.org/aehabdelouadoud">Codeberg</a>
   </pre>
 </p>
