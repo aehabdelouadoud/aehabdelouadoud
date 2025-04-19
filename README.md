@@ -79,7 +79,7 @@ arch in ~
   <b><i>Tools:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-[OS]                         <a href="https://voidlinux.org/">Void Linux</a>, <a href="https://nixos.org/">NixOS</a><br>
+[OS]                         <a href="https://voidlinux.org/">Void Linux</a>, <a href="https://nixos.org/">NixOS</a>
 [WM]                         <a href="https://dwm.suckless.org/">DWL</a>, <a href="https://hyprland.org/">Hyprland</a><br>
 [Shell]                      <a href="https://www.gnu.org/software/bash/">sh</a>, <a href="https://www.gnu.org/software/bash/">bash</a>, <a href="https://fishshell.com/">fish</a><br>
 [Editor]                     <a href="https://www.vim.org/">Vim</a>, <a href="https://neovim.io/">NeoVim</a><br>
