@@ -84,13 +84,12 @@ arch in ~
   <b><i>Tools:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px;">
-  [OS]               Arch Linux, NixOS, VoidLinux
-  [WM]               Hyprland, DWM
-  [Shell]            fish, bash
-  [Editor]           Neovim, vim
-  [Terminal]         Foot, Kitty
-  [Programming]      Lua, C/C++ <!--, Rust, Python, Go -->
-  [Containerization] Docker
-  [Version Control]  Git, GitHub, GitLab
+  [OS]               Void Linux, NixOS
+  [WM]               DWL, Hyprland
+  [Shell]            sh, bash, fish
+  [Editor]           Vim, NeoVim
+  [Terminal]         Foot
+  [Programming]      Lua, C/C++, Rust
+  [Version Control]  Git, GitHub, GitLab, Codeberg
   </pre>
 </p>
