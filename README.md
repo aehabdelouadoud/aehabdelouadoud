@@ -81,15 +81,15 @@ arch in ~
   <b><i>Tools & Skills:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
-    [Operating Systems]          Void Linux, NixOS, OpenBSD
-    [Window Managers]            DWL, Hyprland
-    [Shells]                     sh, bash, fish
-    [Text Editors]               Vim, NeoVim
-    [Terminal Emulators]         Foot
-    [Programming Languages]      Lua, C, C++, Rust
-    [Version Control Systems]    Git, GitHub, Codeberg
-    [Containerization]           Docker, Podman
-    [Virtualization]             QEMU
+    [Operating Systems]..........Void Linux, NixOS, OpenBSD
+    [Window Managers]............DWL, Hyprland
+    [Shells].....................sh, bash, fish
+    [Text Editors]...............Vim, NeoVim
+    [Terminal Emulators].........Foot
+    [Programming Languages]......Lua, C, C++, Rust
+    [Version Control Systems]....Git, GitHub, Codeberg
+    [Containerization]...........Docker, Podman
+    [Virtualization].............QEMU
   </pre>
 </p>
 
