@@ -20,27 +20,6 @@
 
 <!-- Social media -->
 <p align="center">
-<samp>
-  <sup>
-    <b>
-      <b><i> Let's connect!!</i></b>
-    </b>
-    <br>
-    <a href="https://www.linkedin.com/in/aehabdelouadoud"> LinkedIn</a>
-    <a href="https://x.com/aehabdelouadoud"> X</a>
-    <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
-    <a href="https://medium.com/@aehabdelouadoud"> Medium</a>
-    <a href="https://www.youtube.com/@aehabdelouadoud"> YouTube</a>
-    <a href="mailto:mailme.dealt368@passinbox.com">email</a>
-    <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
-    <a href="https://discord.com/users/1133976190709940345">Discord</a>
-    <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
-  </sup>
-</samp>
-</p>
-
-<!-- Social media -->
-<p align="center">
   <samp>
     <b>
       <i> Let's connect!! </i>
