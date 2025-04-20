@@ -39,6 +39,26 @@
 </samp>
 </p>
 
+<!-- Social media -->
+<p align="center">
+  <samp>
+    <b>
+      <i> Let's connect!! </i>
+    </b>
+    <br>
+    <a href="https://www.linkedin.com/in/aehabdelouadoud" style="font-size: 20px;"> LinkedIn</a> |
+    <a href="https://x.com/aehabdelouadoud" style="font-size: 20px;"> X</a> |
+    <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social" style="font-size: 20px;"> BlueSky</a> |
+    <a href="https://medium.com/@aehabdelouadoud" style="font-size: 20px;"> Medium</a> |
+    <a href="https://www.youtube.com/@aehabdelouadoud" style="font-size: 20px;"> YouTube</a> |
+    <a href="mailto:mailme.dealt368@passinbox.com" style="font-size: 20px;"> email</a> |
+    <a href="https://mastodon.social/@aehabdelouadoud" style="font-size: 20px;"> Mastodon</a> |
+    <a href="https://discord.com/users/1133976190709940345" style="font-size: 20px;"> Discord</a> |
+    <a href="https://leetcode.com/u/aehabdelouadoud" style="font-size: 20px;"> LeetCode</a>
+  </samp>
+</p>
+
+
 <!-- Ait El Haj Abdelouadoud GitHub Profile -->
 <div align="justify">
 
