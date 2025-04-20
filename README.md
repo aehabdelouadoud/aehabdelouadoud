@@ -1,4 +1,8 @@
 
+<p align="center" style="font-size: 24px; font-weight: bold; color: #333;">
+  Hi! I'm Abdelouadoud! Want some coffee?
+</p>
+
 <!-- Nice Art -->
 <p align="center">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
