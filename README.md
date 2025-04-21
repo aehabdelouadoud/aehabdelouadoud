@@ -85,7 +85,7 @@ arch in ~
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
     $ cat -e whoami.txt
-    `@aehabdelouadoud`
+    @aehabdelouadoud
     $ cat -e skills.txt
     [Operating Systems]..........Void Linux, NixOS, OpenBSD$
     [Window Managers]............DWL, Hyprland$
