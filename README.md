@@ -1,8 +1,3 @@
-
-<p align="center" style="font-size: 24px; font-weight: bold; color: #333;">
-  Hi! I'm Abdelouadoud! Want some coffee?
-</p>
-
 <!-- Nice Art -->
 <pre>
   $ cat coffee.txt
@@ -83,7 +78,7 @@ arch in ~
 <!-- Whoami  -->
 <p align="center">
   <br>
-  <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
+  <pre>
     $ cat -e whoami.txt
     @aehabdelouadoud
   </pre>
@@ -91,7 +86,7 @@ arch in ~
 
 <!-- Tools/Skills -->
 <p align="center">
-  <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
+  <pre>
     $ cat -e skills.txt | sed 's/ /./g'
     [Operating Systems]..........Void Linux, NixOS, OpenBSD$
     [Window Managers]............DWL, Hyprland$
