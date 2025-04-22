@@ -20,9 +20,7 @@
   </p>
 </pre>
 
-<!-- Ait El Haj Abdelouadoud GitHub Profile -->
-<!-- <div align="justify"> -->
-<!-- Profile -->
+<!--  -->
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
     <samp>
