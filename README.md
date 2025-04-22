@@ -62,10 +62,6 @@ arch in ~
 <!-- Links & Profiles -->
 <p align="center">
   <samp>
-    <b>
-      <i> Let's connect!! </i>
-    </b>
-    <br>
     <pre>
       $ cat links profiles | sed 's/ /./g'
       <a href="https://www.linkedin.com/in/aehabdelouadoud" style="font-size: 20px;"> LinkedIn</a>$
@@ -83,7 +79,6 @@ arch in ~
 
 <!-- Whoami  -->
 <p align="center">
-  <b><i>Whoami:</i></b>
   <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
     $ cat -e whoami.txt
@@ -93,8 +88,6 @@ arch in ~
 
 <!-- Tools/Skills -->
 <p align="center">
-  <b><i>Tools & Skills:</i></b>
-  <br>
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
     $ cat -e skills.txt | sed 's/ /./g'
     [Operating Systems]..........Void Linux, NixOS, OpenBSD$
