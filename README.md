@@ -86,7 +86,7 @@ arch in ~
   <pre style="background-color:#2b2b2b; color:#a89984; padding:10px; font-family:monospace;">
     $ cat -e whoami.txt
     @aehabdelouadoud
-    $ cat -e skills.txt
+    $ cat -e skills.txt | sed 's/ /./g'
     [Operating Systems]..........Void Linux, NixOS, OpenBSD$
     [Window Managers]............DWL, Hyprland$
     [Shells].....................sh, bash, fish$
