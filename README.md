@@ -35,24 +35,6 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-<!-- Links & Profiles -->
-<p align="center">
-  <samp>
-    <pre>
-      $ cat links profiles | sed 's/ /./g'
-      <a href="https://www.linkedin.com/in/aehabdelouadoud" style="font-size: 20px;"> LinkedIn</a>$
-      <a href="https://x.com/aehabdelouadoud" style="font-size: 20px;"> X</a>$
-      <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social" style="font-size: 20px;"> BlueSky</a>$
-      <a href="https://medium.com/@aehabdelouadoud" style="font-size: 20px;"> Medium</a>$
-      <a href="https://www.youtube.com/@aehabdelouadoud" style="font-size: 20px;"> YouTube</a>$
-      <a href="mailto:mailme.dealt368@passinbox.com" style="font-size: 20px;"> email</a>$
-      <a href="https://mastodon.social/@aehabdelouadoud" style="font-size: 20px;"> Mastodon</a>$
-      <a href="https://discord.com/users/1133976190709940345" style="font-size: 20px;"> Discord</a>$
-      <a href="https://leetcode.com/u/aehabdelouadoud" style="font-size: 20px;"> LeetCode</a>
-    </pre>
-  </samp>
-</p>
-
 <!-- Whoami  -->
 <p align="center">
   <br>
@@ -78,3 +60,20 @@
   </pre>
 </p>
 
+<!-- Links & Profiles -->
+<p align="center">
+  <samp>
+    <pre>
+      $ cat links profiles | sed 's/ /./g'
+      <a href="https://www.linkedin.com/in/aehabdelouadoud" style="font-size: 20px;"> LinkedIn</a>$
+      <a href="https://x.com/aehabdelouadoud" style="font-size: 20px;"> X</a>$
+      <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social" style="font-size: 20px;"> BlueSky</a>$
+      <a href="https://medium.com/@aehabdelouadoud" style="font-size: 20px;"> Medium</a>$
+      <a href="https://www.youtube.com/@aehabdelouadoud" style="font-size: 20px;"> YouTube</a>$
+      <a href="mailto:mailme.dealt368@passinbox.com" style="font-size: 20px;"> email</a>$
+      <a href="https://mastodon.social/@aehabdelouadoud" style="font-size: 20px;"> Mastodon</a>$
+      <a href="https://discord.com/users/1133976190709940345" style="font-size: 20px;"> Discord</a>$
+      <a href="https://leetcode.com/u/aehabdelouadoud" style="font-size: 20px;"> LeetCode</a>
+    </pre>
+  </samp>
+</p>
