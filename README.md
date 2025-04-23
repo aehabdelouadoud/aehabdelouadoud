@@ -114,19 +114,17 @@
 $ cat fav_quotes profiles | sed 's/ /./g'
 <p align="center">
   <samp>
+    <pre>
       > Be.tolerant.with.others.and.strict.with.yourself.
-      > — Marcus.Aurelius
-
+      > — Marcus.Aurelius<br>
       > We.are.what.we.repeatedly.do..Excellence,.then,.is.not.an.act,.but.a.habit.
-      > — Will.Durant
-
+      > — Will.Durant<br>
       > Simplicity.is.the.soul.of.efficiency.
-      > — Austin.Freeman
-
+      > — Austin.Freeman<br>
       > Slow.is.smooth,.smooth.is.fast.
-      > — Naval./.US.Navy.SEALs
-
+      > — Naval./.US.Navy.SEALs<br>
       > Programs.must.be.written.for.people.to.read,.and.only.incidentally.for.machines.to.execute.
       > — Harold.Abelson
+      </pre>
   </samp>
 </p>
