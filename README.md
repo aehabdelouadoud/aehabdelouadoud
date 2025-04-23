@@ -111,10 +111,9 @@
 </p>
 
 <!-- Favorite Quotes -->
+$ cat fav_quotes profiles | sed 's/ /./g'
 <p align="center">
   <samp>
-      $ cat fav_quotes profiles | sed 's/ /./g'
-
       > Be.tolerant.with.others.and.strict.with.yourself.
       > — Marcus.Aurelius
 
