@@ -111,10 +111,10 @@
 </p>
 
 <!-- Favorite Quotes -->
-$ cat fav_quotes profiles | sed 's/ /./g'
 <p align="center">
   <samp>
     <pre>
+      $ cat fav_quotes profiles | sed 's/ /./g'
       > Be.tolerant.with.others.and.strict.with.yourself.
       > — Marcus.Aurelius<br>
       > We.are.what.we.repeatedly.do..Excellence,.then,.is.not.an.act,.but.a.habit.
