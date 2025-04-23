@@ -128,3 +128,28 @@ $ cat fav_quotes profiles | sed 's/ /./g'
       </pre>
   </samp>
 </p>
+
+<!-- Favorite Books -->
+<!-- Favorite Books -->
+$ cat fav_books profiles | sed 's/ /./g'
+<p align="center">
+  <samp>
+    <pre>
+      > Atomic.Habits:.An.effective.guide.to.building.habits.and.breaking.bad.ones.
+      > — James.Clear<br><br>
+      > The.Power.of.Now:.A.spiritual.guide.to.living.in.the.present.moment.
+      > — Eckhart.Tolle<br><br>
+      > Clean.Code:.A.must-read.for.anyone.who.wants.to.write.better,.cleaner.code.
+      > — Robert.C..Martin<br><br>
+      > Design.Patterns:.Elements.of.Reusable.Object-Oriented.Software.
+      > — Erich.Gamma,.Richard.Helm,.Ralph.Johnson,.John.Vlissides<br><br>
+      > Steal.Like.an.Artist:.A.fun.and.inspiring.book.about.creativity.and.originality.
+      > — Austin.Kleon<br><br>
+      > Meditations:.A.collection.of.thoughts.on.Stoic.philosophy,.introspection,.and.personal.growth.
+      > — Marcus.Aurelius<br><br>
+      > The.Four.Agreements:.A.guide.to.personal.freedom.based.on.ancient.Toltec.wisdom.
+      > — Don.Miguel.Ruiz<br>
+    </pre>
+  </samp>
+</p>
+
