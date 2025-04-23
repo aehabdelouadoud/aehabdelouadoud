@@ -113,7 +113,6 @@
 <!-- Favorite Quotes -->
 <p align="center">
   <samp>
-    <pre>
       $ cat fav_quotes profiles | sed 's/ /./g'
 
       > Be.tolerant.with.others.and.strict.with.yourself.
@@ -130,6 +129,5 @@
 
       > Programs.must.be.written.for.people.to.read,.and.only.incidentally.for.machines.to.execute.
       > — Harold.Abelson
-    </pre>
   </samp>
 </p>
