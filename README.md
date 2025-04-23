@@ -109,3 +109,27 @@
     </pre>
   </samp>
 </p>
+
+<!-- Favorite Quotes -->
+<p align="center">
+  <samp>
+    <pre>
+      $ cat fav_quotes profiles | sed 's/ /./g'
+
+      > Be.tolerant.with.others.and.strict.with.yourself.
+      > — Marcus.Aurelius
+
+      > We.are.what.we.repeatedly.do..Excellence,.then,.is.not.an.act,.but.a.habit.
+      > — Will.Durant
+
+      > Simplicity.is.the.soul.of.efficiency.
+      > — Austin.Freeman
+
+      > Slow.is.smooth,.smooth.is.fast.
+      > — Naval./.US.Navy.SEALs
+
+      > Programs.must.be.written.for.people.to.read,.and.only.incidentally.for.machines.to.execute.
+      > — Harold.Abelson
+    </pre>
+  </samp>
+</p>
