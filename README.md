@@ -130,7 +130,7 @@ $ cat fav_quotes profiles | sed 's/ /./g'
 </p>
 
 <!-- Favorite Books -->
-<!-- Favorite Books -->
+<!--
 $ cat fav_books profiles | sed 's/ /./g'
 <p align="center">
   <samp>
@@ -152,4 +152,4 @@ $ cat fav_books profiles | sed 's/ /./g'
     </pre>
   </samp>
 </p>
-
+-->
