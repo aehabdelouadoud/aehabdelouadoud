@@ -71,7 +71,7 @@
   <br>
   <pre>
     $ cat -e whoami.txt
-    <b>Reader, CS Student.</b>
+    <b>Reader, Voice Actor, Public Speaker <i>CS Student</i>.</b>
   </pre>
 </p>
 
