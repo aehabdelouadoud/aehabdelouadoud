@@ -70,7 +70,7 @@
 <p align="center">
   <br>
   <pre>
-    $ cat -e whoami.txt
+    $ cat whoami.txt
     <b>Reader, Voice Actor, Public Speaker <i>& CS Student</i>.</b>
   </pre>
 </p>
