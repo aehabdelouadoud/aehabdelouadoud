@@ -71,7 +71,7 @@
   <br>
   <pre>
     $ cat -e whoami.txt
-    @aehabdelouadoud
+    <b>Reader, CS Student.</b>
   </pre>
 </p>
 
