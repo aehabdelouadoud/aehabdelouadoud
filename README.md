@@ -146,6 +146,7 @@
 </p>
 
 <!-- Favorite Quotes -->
+<!--
 <p align="center">
   <samp>
     <pre>
@@ -163,6 +164,7 @@
       </pre>
   </samp>
 </p>
+-->
 
 <!-- Favorite Books -->
 <!--
