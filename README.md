@@ -2,7 +2,6 @@
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
     <samp>
-      Well, it's <b>not</b> a <b>fancy</b> README—because I believe <b>minimalism</b> is the <i>ultimate</i> life motto.<br>
       "Simplicity"Simplicity is the ultimate sophistication." — Leonardo da Vinci<br>
       "Less is more." — Ludwig Mies van der Rohe<br>
       "I think, therefore I am." — René Descartes<br>
