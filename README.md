@@ -3,15 +3,15 @@
   <p align="center">
     <samp>
       Well, it's <b>not</b> a <b>fancy</b> README—because I believe <b>minimalism</b> is the <i>ultimate</i> life motto.<br>
-      "Simplicity"Simplicity is the ultimate sophistication." — Leonardo da Vinci
-      "Less is more." — Ludwig Mies van der Rohe
-      "I think, therefore I am." — René Descartes
-      "The book of nature is written in the language of mathematics." — Galileo Galilei
-      "Do not worry about your problems with mathematics, I assure you mine are far greater." — Albert Einstein
-      "Philosophy is the science which considers truth." — Aristotle
-      "Science is what we understand well enough to explain to a computer. Art is everything else we do." — Donald Knuth
-      "In mathematics, you don't understand things. You just get used to them." — John von Neumann
-      "The purpose of philosophy is to learn how to live, the purpose of mathematics is to understand the world, and the purpose of programming is to create change." — Unknown
+      "Simplicity"Simplicity is the ultimate sophistication." — Leonardo da Vinci<br>
+      "Less is more." — Ludwig Mies van der Rohe<br>
+      "I think, therefore I am." — René Descartes<br>
+      "The book of nature is written in the language of mathematics." — Galileo Galilei<br>
+      "Do not worry about your problems with mathematics, I assure you mine are far greater." — Albert Einstein<br>
+      "Philosophy is the science which considers truth." — Aristotle<br>
+      "Science is what we understand well enough to explain to a computer. Art is everything else we do." — Donald Knuth<br>
+      "In mathematics, you don't understand things. You just get used to them." — John von Neumann<br>
+      "The purpose of philosophy is to learn how to live, the purpose of mathematics is to understand the world, and the purpose of programming is to create change." — Unknown<br>
       <br>
         <b>"ふうりんかざん"</b>
       <br>
