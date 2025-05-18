@@ -116,14 +116,13 @@
 <p align="center">
   <pre>
     $ cat -e skills.txt | sed 's/ /./g'
-    [Operating Systems]..........Void Linux, NixOS, OpenBSD$
-    [Window Managers]............DWL, Hyprland$
+    [Operating Systems]..........Void Linux$
+    [Window Managers]............DWL$
     [Shells].....................sh, bash, fish$
     [Text Editors]...............Vim, NeoVim$
     [Terminal Emulators].........Foot$
     [Programming Languages]......Lua, C, C++, Rust$
     [Version Control Systems]....Git, GitHub, Codeberg$
-    [Containerization]...........Docker, Podman$
     [Virtualization].............QEMU
   </pre>
 </p>
