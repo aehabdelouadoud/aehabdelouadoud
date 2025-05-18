@@ -1,10 +1,11 @@
 <!--  -->
+<!--
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
     <samp>
-      "Simplicity"Simplicity is the ultimate sophistication." — Leonardo da Vinci<br>
       "Less is more." — Ludwig Mies van der Rohe<br>
       "I think, therefore I am." — René Descartes<br>
+      "Simplicity is the ultimate sophistication." — Leonardo da Vinci<br>
       "The book of nature is written in the language of mathematics." — Galileo Galilei<br>
       "Do not worry about your problems with mathematics, I assure you mine are far greater." — Albert Einstein<br>
       "Philosophy is the science which considers truth." — Aristotle<br>
@@ -20,6 +21,34 @@
     </samp>
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
+-->
+
+<p align="left">
+  <strong><samp><i>「</i></samp></strong>
+</p>
+
+<p align="center">
+  <samp>
+    <i>"Less is more." — Ludwig Mies van der Rohe</i><br>
+    <b>"I think, therefore I am." — René Descartes</b><br>
+    "Simplicity is the ultimate sophistication." — Leonardo da Vinci<br>
+    <i>"The book of nature is written in the language of mathematics." — Galileo Galilei</i><br>
+    <b>"Do not worry about your problems with mathematics, I assure you mine are far greater." — Albert Einstein</b><br>
+    "Philosophy is the science which considers truth." — Aristotle<br>
+    "Science is what we understand well enough to explain to a computer. Art is everything else we do." — Donald Knuth<br>
+    <i>"In mathematics, you don't understand things. You just get used to them." — John von Neumann</i><br>
+    <b>"The purpose of philosophy is to learn how to live, the purpose of mathematics is to understand the world, and the purpose of programming is to create change." — Unknown</b><br>
+    <br>
+    <b>"ふうりんかざん"</b><br>
+    <i><b>Hello world!</b></i><br>
+    <br>
+    <i>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</i>
+  </samp>
+</p>
+
+<p align="right">
+  <strong><samp><i>」</i></samp></strong>
+</p>
 
 <!-- Hydra -->
 <pre>
