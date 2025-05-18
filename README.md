@@ -22,11 +22,11 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 -->
-
+<!--
 > <p align="left">
 >   <strong><samp><i>「</i></samp></strong>
 > </p>
-> 
+> -->
 > <p align="center">
 >   <samp>
 >     <i>"Less is more." — Ludwig Mies van der Rohe</i><br>
@@ -45,11 +45,12 @@
 >     <i>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</i>
 >   </samp>
 > </p>
-> 
+<!-- > 
 > <p align="right">
 >   <strong><samp><i>」</i></samp></strong>
-> </p>
+> </p> -->
 
+<!--
 <p align="left">
   <strong><samp><i>「</i></samp></strong>
 </p>
@@ -76,6 +77,7 @@
 <p align="right">
   <strong><samp><i>」</i></samp></strong>
 </p>
+-->
 
 <!-- Hydra -->
 <pre>
