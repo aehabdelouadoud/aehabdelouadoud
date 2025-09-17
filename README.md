@@ -9,7 +9,7 @@
 
 <!-- Top Frame -->
 <p align="center">
-  <samp>┌────────────────────────────────────────────┐</samp>
+  <samp>┌────────────────────────────────────────────────────────┐</samp>
 </p>
 
 <!-- Navigation Index -->
@@ -36,42 +36,7 @@
 
 <!-- Bottom Frame -->
 <p align="center">
-  <samp>└────────────────────────────────────────────┘</samp>
-</p>
-
-<div align="center">
-  <span style="float: left;">┌</span>
-  <span style="float: right;">┐</span>
-</div>
-
-<!-- Navigation Index -->
-<p align="center">
-  <samp>
-    <strong>Index</strong><br>
-    <a href="#whoami">Whoami</a> &nbsp;•&nbsp;
-    <a href="#planet">Planet</a> &nbsp;•&nbsp;
-    <a href="#skills">Skills</a> &nbsp;•&nbsp;
-    <a href="#links--profiles">Links</a>
-  </samp>
-</p>
-
-<!-- Inspirational quotes and personal greeting -->
-<p align="center" style="margin-top: 1.5em;">
-  <samp>
-    <strong>「Less is more」</strong> — Ludwig Mies van der Rohe<br>
-    <em>"Simplicity is the ultimate sophistication."</em> — Leonardo da Vinci<br><br>
-    <strong>ふうりんかざん</strong><br>
-    <em><strong>Hello, world!</strong></em><br><br>
-    <em>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</em>
-  </samp>
-</p>
-
-<p align="left">
-  <samp>└</samp>
-</p>
-
-<p align="right">
-  <samp>┘</samp>
+  <samp>└────────────────────────────────────────────────────────┘</samp>
 </p>
 
 <!-- Whoami section -->
