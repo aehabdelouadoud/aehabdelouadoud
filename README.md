@@ -65,7 +65,7 @@
 <!-- Whoami section -->
 <pre align="center" id="whoami">
 $ <strong>whoami</strong>
-<strong>Systems thinker</strong>  ·  1337/42 Student  ·  </strong>Minimalist</strong> creator
+<strong>Systems thinker</strong>  ·  <strong>1337/42</strong> Student  ·  </strong>Minimalist</strong> creator
 </pre>
 
 <!-- Planet ASCII art -->
