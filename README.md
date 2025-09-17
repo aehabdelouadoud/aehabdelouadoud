@@ -1,26 +1,27 @@
 <!-- Top anchor for back to top links -->
 <div id="top"></div>
 
+<!-- Framed Hello with blocky font -->
 <p align="left">
-  <samp>◤</samp>
+  <samp>┌</samp>
 </p>
 
 <p align="right">
-  <samp>◥</samp>
+  <samp>┐</samp>
 </p>
 
 <p align="center">
   <samp>
-    <strong>Hello!</strong>
+    <strong>ＨＥＬＬＯ!</strong>
   </samp>
 </p>
 
 <p align="left">
-  <samp>◣</samp>
+  <samp>└</samp>
 </p>
 
 <p align="right">
-  <samp>◢</samp>
+  <samp>┘</samp>
 </p>
 
 <!-- Navigation Index -->
