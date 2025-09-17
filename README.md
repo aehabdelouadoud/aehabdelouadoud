@@ -43,14 +43,6 @@
   </samp>
 </p>
 
-<p align="left">
-  <samp>└</samp>
-</p>
-
-<p align="right">
-  <samp>┘</samp>
-</p>
-
 <!-- Inspirational quotes and personal greeting -->
 <p align="center" style="margin-top: 1.5em;">
   <samp>
@@ -60,6 +52,14 @@
     <em><strong>Hello, world!</strong></em><br><br>
     <em>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</em>
   </samp>
+</p>
+
+<p align="left">
+  <samp>└</samp>
+</p>
+
+<p align="right">
+  <samp>┘</samp>
 </p>
 
 <!-- Whoami section -->
