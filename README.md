@@ -1,27 +1,10 @@
 <!-- Top anchor for back to top links -->
 <div id="top"></div>
 
-<!-- Framed Hello with blocky font -->
-<p align="left">
-  <samp>┌</samp>
-</p>
-
-<p align="right">
-  <samp>┐</samp>
-</p>
-
 <p align="center">
   <samp>
-    <strong>ＨＥＬＬＯ!</strong>
+    <strong>𝙷𝙴𝙻𝙻𝙾!!</strong>
   </samp>
-</p>
-
-<p align="left">
-  <samp>└</samp>
-</p>
-
-<p align="right">
-  <samp>┘</samp>
 </p>
 
 <p align="left">
