@@ -64,8 +64,8 @@
 
 <!-- Whoami section -->
 <pre align="center" id="whoami">
-$ <i>curl</i> identity.me
-Systems thinker  ·  Software learner  ·  Minimalist creator
+$ <strong>whoami</strong>
+<strong>Systems thinker</strong>  ·  1337/42 Student  ·  </strong>Minimalist</strong> creator
 </pre>
 
 <!-- Planet ASCII art -->
