@@ -2,9 +2,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <samp>
-    <strong>𝙷𝙴𝙻𝙻𝙾!!</strong>
-  </samp>
+  <h1>𝗛𝗘𝗟𝗟𝗢!</h1>
 </p>
 
 <p align="left">
