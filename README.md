@@ -24,6 +24,14 @@
   <samp>┘</samp>
 </p>
 
+<p align="left">
+  <samp>┌</samp>
+</p>
+
+<p align="right">
+  <samp>┐</samp>
+</p>
+
 <!-- Navigation Index -->
 <p align="center">
   <samp>
@@ -33,6 +41,14 @@
     <a href="#skills">Skills</a> &nbsp;•&nbsp;
     <a href="#links--profiles">Links</a>
   </samp>
+</p>
+
+<p align="left">
+  <samp>└</samp>
+</p>
+
+<p align="right">
+  <samp>┘</samp>
 </p>
 
 <!-- Inspirational quotes and personal greeting -->
