@@ -1,11 +1,19 @@
 <!-- Top anchor for back to top links -->
 <div id="top"></div>
 
+<p align="left">
+  <samp>◤</samp>
+</p>
+
 <p align="center">
   <samp>
     <strong>Hello!</strong><br>
-    Glad you're here!
+    Glad You Are Here!
   </samp>
+</p>
+
+<p align="right">
+  <samp>◢</samp>
 </p>
 
 <!-- Navigation Index -->
