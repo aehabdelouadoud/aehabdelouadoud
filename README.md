@@ -42,7 +42,7 @@
 <!-- Whoami section -->
 <pre align="center" id="whoami">
 $ <strong>whoami</strong>
-<strong>Systems thinker</strong>  ·  <a href="https://1337.ma/en/">1337</a>/<a href="https://www.42network.org/">42</a> Student  ·  </strong>Minimalist</strong> creator
+<strong>Systems thinker</strong>  ·  <a href="https://1337.ma/en/"><strong>1337</strong></a>/<a href="https://www.42network.org/"><strong>42</strong></a> Student  ·  </strong>Minimalist</strong> creator
 </pre>
 
 <!-- Planet ASCII art -->
