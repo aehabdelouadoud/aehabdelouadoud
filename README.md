@@ -7,13 +7,10 @@
   </samp>
 </p>
 
-<p align="left">
-  <samp>┌</samp>
-</p>
-
-<p align="right">
-  <samp>┐</samp>
-</p>
+<div align="center">
+  <span style="float: left;">┌</span>
+  <span style="float: right;">┐</span>
+</div>
 
 <!-- Navigation Index -->
 <p align="center">
