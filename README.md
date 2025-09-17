@@ -5,11 +5,18 @@
   <samp>◤</samp>
 </p>
 
+<p align="right">
+  <samp>◥</samp>
+</p>
+
 <p align="center">
   <samp>
-    <strong>Hello!</strong><br>
-    Glad You Are Here!
+    <strong>Hello!</strong>
   </samp>
+</p>
+
+<p align="left">
+  <samp>◣</samp>
 </p>
 
 <p align="right">
