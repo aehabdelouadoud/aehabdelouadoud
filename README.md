@@ -1,6 +1,13 @@
 <!-- Top anchor for back to top links -->
 <div id="top"></div>
 
+<!-- Welcome section -->
+<p align="center">
+  <samp>
+    <strong>Welcome!</strong><br>
+  </samp>
+</p>
+
 <!-- Navigation Index -->
 <p align="center">
   <samp>
