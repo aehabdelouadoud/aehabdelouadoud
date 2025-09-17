@@ -2,8 +2,8 @@
 <div id="top"></div>
 
 <p align="center">
-  <samp style="font-size: 10em;">
-    𝗛𝗘𝗟𝗟𝗢!
+  <samp>
+    ＨＥＬＬＯ！
   </samp>
 </p>
 
