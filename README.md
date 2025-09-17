@@ -1,10 +1,10 @@
 <!-- Top anchor for back to top links -->
 <div id="top"></div>
 
-<!-- Welcome section -->
 <p align="center">
   <samp>
-    <strong>Welcome!</strong><br>
+    <strong>Hello!</strong><br>
+    Glad you're here!
   </samp>
 </p>
 
