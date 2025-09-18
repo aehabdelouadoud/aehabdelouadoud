@@ -7,6 +7,23 @@
   </samp>
 </p>
 
+<div style="display: flex; flex-direction: column; width: 100%;">
+  <!-- Top corner -->
+  <div style="text-align: left;">
+    <samp>┌</samp>
+  </div>
+
+  <!-- Your content -->
+  <div style="text-align: center; padding: 1em 0;">
+    <samp>Your content here</samp>
+  </div>
+
+  <!-- Bottom corner -->
+  <div style="text-align: right;">
+    <samp>┘</samp>
+  </div>
+</div>
+
 <!-- Bottom Frame -->
 <p align="center">
   <samp>┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐</samp>
