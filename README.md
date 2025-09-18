@@ -7,22 +7,9 @@
   </samp>
 </p>
 
-<div style="display: flex; flex-direction: column; width: 100%;">
-  <!-- Top corner -->
-  <div style="text-align: left;">
-    <samp>┌</samp>
-  </div>
-
-  <!-- Your content -->
-  <div style="text-align: center; padding: 1em 0;">
-    <samp>Your content here</samp>
-  </div>
-
-  <!-- Bottom corner -->
-  <div style="text-align: right;">
-    <samp>┘</samp>
-  </div>
-</div>
+<header style="display:flex; justify-content:flex-start; padding:8px;">
+  <samp>┌</samp>
+</header>
 
 <!-- Bottom Frame -->
 <p align="center">
@@ -50,6 +37,10 @@
     <em>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</em>
   </samp>
 </p>
+
+<footer style="display:flex; justify-content:flex-end; padding:8px;">
+  <samp>┘</samp>
+</footer>
 
 <!-- Bottom Frame -->
 <p align="center">
