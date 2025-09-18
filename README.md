@@ -8,8 +8,8 @@
 </p>
 
 <!-- Top Frame -->
-<p align="center">
-  <samp>┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐</samp>
+<p align="center" style="display: flex; justify-content: center;">
+  <samp>┌<span style="flex: 1;"></span>┐</samp>
 </p>
 
 <!-- Navigation Index -->
