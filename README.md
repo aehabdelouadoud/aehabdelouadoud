@@ -12,11 +12,6 @@
   <samp>┌</samp>
 </p>
 
-<!-- Bottom Frame -->
-<p align="center">
-  <samp>┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐</samp>
-</p>
-
 <!-- Navigation Index -->
 <p align="center">
   <samp>
@@ -37,11 +32,6 @@
     <em><strong>Hello, world!</strong></em><br><br>
     <em>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</em>
   </samp>
-</p>
-
-<!-- Bottom Frame -->
-<p align="center">
-  <samp>└────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘</samp>
 </p>
 
 <!-- Bottom Frame -->
