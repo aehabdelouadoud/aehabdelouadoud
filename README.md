@@ -8,8 +8,10 @@
 </p>
 
 <!-- Top Frame -->
-<p align="center" style="display: flex; justify-content: center;">
-  <samp>┌<span style="flex: 1;"></span>┐</samp>
+<p style="display: flex; align-items: center;">
+  <samp>┌</samp>
+  <span style="flex: 1; border-top: 1px solid;"></span>
+  <samp>┐</samp>
 </p>
 
 <!-- Navigation Index -->
