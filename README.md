@@ -7,11 +7,9 @@
   </samp>
 </p>
 
-<!-- Top Frame -->
-<p style="display: flex; align-items: center;">
-  <samp>┌</samp>
-  <span style="flex: 1; border-top: 1px solid;"></span>
-  <samp>┐</samp>
+<!-- Bottom Frame -->
+<p align="center">
+  <samp>┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐</samp>
 </p>
 
 <!-- Navigation Index -->
