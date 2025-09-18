@@ -7,9 +7,10 @@
   </samp>
 </p>
 
-<header style="display:flex; justify-content:flex-start; padding:8px;">
+<!-- Bottom Frame -->
+<p align="left">
   <samp>┌</samp>
-</header>
+</p>
 
 <!-- Bottom Frame -->
 <p align="center">
@@ -38,13 +39,14 @@
   </samp>
 </p>
 
-<footer style="display:flex; justify-content:flex-end; padding:8px;">
-  <samp>┘</samp>
-</footer>
-
 <!-- Bottom Frame -->
 <p align="center">
   <samp>└────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘</samp>
+</p>
+
+<!-- Bottom Frame -->
+<p align="right">
+  <samp>┘</samp>
 </p>
 
 <!-- Whoami section -->
