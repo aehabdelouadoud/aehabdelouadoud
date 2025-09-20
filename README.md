@@ -125,6 +125,27 @@ Documentation            ███         Markdown, LaTeX
   │ sh, bash, fish</pre>
 </pre>
 
+<div style="display: flex; justify-content: space-between;">
+
+<div>
+**Technical Skills**  
+- Operating Systems: Arch, NixOS, Void  
+- Window Managers: Hyprland, DWM  
+- Shells: sh, bash, fish  
+- Programming: C, Rust, Python
+</div>
+
+<div>
+**Soft Skills**  
+- Communication  
+- Teamwork  
+- Problem Solving  
+- Creativity
+</div>
+
+</div>
+
+
 <!-- Links & Profiles grouped by type -->
 <pre align="center" id="links--profiles">
 $ <i>cat</i> dev_links
