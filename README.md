@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-    ＨＥＬＬＯ！
+    <strong>ＨＥＬＬＯ,　ＷＯＲＬＤ！</strong>
   </samp>
 </p>
 
