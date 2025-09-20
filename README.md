@@ -93,14 +93,15 @@ Documentation            ███         Markdown, LaTeX
 -->
 
 <pre align="center" di="skills">
+$ *cat* skills.txt
 ○ Operating Systems
 │ Arch, NixOS, FreeBSD(b), Void Linux
 │
-○ Window Managers        ○ Shells
-│ Hyprland, DWM, DWL     │ sh, bash, fish
-│                        │
-○ Text Editors           ○ Terminals
-│ Vim, Neovim            │ Foot, Kitty
+○ Window Managers                          ○ Shells
+│ Hyprland, DWM, DWL                       │ sh, bash, fish
+│                                          │
+○ Text Editors                             ○ Terminals
+│ Vim, Neovim                              │ Foot, Kitty
 │
 ○ Programming Languages
 │ C, C++, Lua, Rust, Go(b), Python(b)
