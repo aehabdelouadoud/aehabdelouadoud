@@ -95,7 +95,7 @@ Documentation            ███         Markdown, LaTeX
 <pre align="center" di="skills">
   $ <strong>cat</strong> skills.txt
   ○ Version Control          ○ Operating Systems
-  │ Git, GitHub, Codeberg    │ Arch, NixOS, FreeBSD(b), Void Linux
+  │ Git, GitHub, Codeberg    │ Arch, NixOS, FreeBSD(b), <strong>Void Linux</strong>
   │                          │
   ○ Virtualization           ○ Window Managers
   │ QEMU                     │ Hyprland, DWM, DWL
