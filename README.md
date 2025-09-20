@@ -77,23 +77,8 @@ $ <i>cat</i> planet.txt
 
 <!-- Skills listing -->
 <pre align="center" id="skills">
-$ <i>cat</i> skills.txt
-
-* Operating Systems        _> Arch Linux, NixOS, FreeBSD (basic), Void Linux
-* Window Managers          _> Hyprland, DWM, DWL
-* Shells                   _> sh, bash, fish
-* Text Editors             _> Vim, Neovim
-* Terminal Emulators       _> Foot, Kitty
-* Programming Languages    _> C, C++, Lua, Rust, Go(basic), Python (basic)
-* Web Technologies         _> HTML, CSS
-* Version Control Systems  _> Git, GitHub, Codeberg
-* Virtualization           _> QEMU
-* Documentation            _> Markdown, LaTeX
-</pre>
-
-<pre align="center" id="skills">
 Skills Overview:
-
+$ cat skills.info
 Operating Systems        ██████████  Arch Linux, NixOS, FreeBSD, Void Linux
 Window Managers          ███████     Hyprland, DWM, DWL
 Shells                   ██████      sh, bash, fish
