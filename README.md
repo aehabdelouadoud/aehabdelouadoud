@@ -77,7 +77,6 @@ $ <i>cat</i> planet.txt
 
 <!-- Skills listing -->
 <pre align="center" id="skills">
-Skills Overview:
 $ cat skills.info
 Operating Systems        ██████████  Arch Linux, NixOS, FreeBSD, Void Linux
 Window Managers          ███████     Hyprland, DWM, DWL
