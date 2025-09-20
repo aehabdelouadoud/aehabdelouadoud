@@ -112,13 +112,13 @@ Documentation            ███         Markdown, LaTeX
 
 <!-- Links & Profiles grouped by type -->
 <pre align="center" id="links--profiles">
-$ <i>cat</i> dev_links
+$ <strong>cat</strong> dev_links
 
 * <a href="https://gitlab.com/aehabdelouadoud">GitLab</a>
 * <a href="https://codeberg.org/aehabdelouadoud">CodeBerg</a>
 * <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
 
-$ <i>cat</i> social_links
+$ <strong>cat</strong> social_links
 
 * <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
 * <a href="https://x.com/aehabdelouadoud">X</a>
@@ -127,7 +127,7 @@ $ <i>cat</i> social_links
 * <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
 * <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
 
-$ <i>cat</i> contact_links
+$ <strong>cat</strong> contact_links
 
 * <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
 * <a href="https://discord.com/users/1133976190709940345">Discord</a>
