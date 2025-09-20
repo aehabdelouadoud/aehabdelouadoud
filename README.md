@@ -93,7 +93,7 @@ Documentation            ███         Markdown, LaTeX
 -->
 
 <pre align="center" di="skills">
-$ *cat* skills.txt
+$ <strong>cat</strong> skills.txt
 ○ Operating Systems
 │ Arch, NixOS, FreeBSD(b), Void Linux
 │
