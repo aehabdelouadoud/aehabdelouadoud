@@ -134,6 +134,6 @@ $ <strong>cat</strong> contact_links
 </pre>
 
 <!-- Back to top navigation ↑ -->
-<p align="center"><a href="#top">^ back to top</a></p>
+<p align="right"><a href="#top">^ back to top</a></p>
 
 > *Thanks a lot for connecting and taking the time to check out my repositories!*
