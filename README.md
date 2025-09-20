@@ -133,17 +133,6 @@ $ <i>cat</i> contact_links
 * <a href="https://discord.com/users/1133976190709940345">Discord</a>
 </pre>
 
-<<pre align="center" id="links--profiles">
-$ cat dev_links              $ cat social_links                $ cat contact_links
-* <a href="https://gitlab.com/aehabdelouadoud">GitLab</a>                     * <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>                        * <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
-* <a href="https://codeberg.org/aehabdelouadoud">CodeBerg</a>                   * <a href="https://x.com/aehabdelouadoud">X</a>                               * <a href="https://discord.com/users/1133976190709940345">Discord</a>
-* <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>                   * <a href="https://medium.com/@aehabdelouadoud">Medium</a>
-                             * <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
-                             * <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
-                             * <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
-</pre>
-
-
 <!-- Back to top navigation ↑ -->
 <p align="center"><a href="#top">^ back to top</a></p>
 
