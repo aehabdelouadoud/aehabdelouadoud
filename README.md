@@ -91,6 +91,21 @@ $ <i>cat</i> skills.txt
 * Documentation            _> Markdown, LaTeX
 </pre>
 
+<pre align="center" id="skills">
+Skills Overview:
+
+Operating Systems        ██████████  Arch Linux, NixOS, FreeBSD, Void Linux
+Window Managers          ███████     Hyprland, DWM, DWL
+Shells                   ██████      sh, bash, fish
+Text Editors             ██████      Vim, Neovim
+Terminal Emulators       █████       Foot, Kitty
+Programming Languages    ████████    C, C++, Lua, Rust, Go
+Web Technologies         ███         HTML, CSS
+Version Control Systems  █████       Git, GitHub, Codeberg
+Virtualization           ██          QEMU
+Documentation            ███         Markdown, LaTeX
+</pre>
+
 <!-- Links & Profiles grouped by type -->
 <pre align="center" id="links--profiles">
 $ <i>cat</i> dev_links
