@@ -93,21 +93,21 @@ Documentation            ███         Markdown, LaTeX
 -->
 
 <pre align="center" di="skills">
-  $ <strong>cat</strong> skills.txt
-  ○ Version Control          ○ Operating Systems
-  │ Git, GitHub, Codeberg    │ Arch, NixOS, FreeBSD(b), <strong>Void Linux</strong>
-  │                          │
-  ○ Virtualization           ○ Window Managers
-  │ QEMU                     │ Hyprland, DWM, DWL
-  │                          │
-  ○ Documentation            ○ Text Editors
-  │ Markdown, LaTeX          │ Vim, Neovim
-  │                          │
-  ○ Terminals                ○ Programming Languages
-  │ Foot, Kitty              │ C, C++, Lua, Rust, Go(b), Python(b)
-  │                          │
-  ○ Shells                   ○ Web Technologies
-  │ sh, bash, fish           │ HTML, CSS
+$ <strong>cat</strong> skills.txt
+○ Version Control          ○ Operating Systems
+│ Git, GitHub, Codeberg    │ Arch, NixOS, FreeBSD(b), <strong>Void Linux</strong>
+│                          │
+○ Virtualization           ○ Window Managers
+│ QEMU                     │ Hyprland, DWM, DWL
+│                          │
+○ Documentation            ○ Text Editors
+│ Markdown, LaTeX          │ Vim, Neovim
+│                          │
+○ Terminals                ○ Programming Languages
+│ Foot, Kitty              │ C, C++, Lua, Rust, Go(b), Python(b)
+│                          │
+○ Shells                   ○ Web Technologies
+│ sh, bash, fish           │ HTML, CSS
 </pre>
 
 <!-- Links & Profiles grouped by type -->
