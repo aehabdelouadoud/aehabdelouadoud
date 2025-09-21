@@ -47,7 +47,7 @@ $ <strong>whoami</strong>
 
 <!-- Planet ASCII art -->
 <pre>
-$ <i>cat</i> planet.txt
+$ <strong>cat</strong> planet.txt
   <p align="center" id="planet">⠀
 
 ⠀⠀⠀⠀⢀⡴⠚⡉⠍⢉⣉⣉⡁⠒⢂⠄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
