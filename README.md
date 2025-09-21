@@ -28,8 +28,7 @@
   <samp>
     <strong>「Less is more」</strong> — Ludwig Mies van der Rohe<br>
     <em>"Simplicity is the ultimate sophistication."</em> — Leonardo da Vinci<br><br>
-    <strong>ふうりんかざん</strong><br>
-    <em><strong>Hello, world!</strong></em><br><br>
+    <strong>ふうりんかざん</strong><br><br>
     <em>~ Ait El Haj Abdelouadoud (@aehabdelouadoud) ~</em>
   </samp>
 </p>
