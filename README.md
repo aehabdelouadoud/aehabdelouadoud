@@ -97,7 +97,7 @@ $ <strong>cat</strong> skills.txt
 │ Git, GitHub, Codeberg    │ Arch, NixOS, FreeBSD(b), <strong>Void Linux</strong>
 │                          │
 ○ Virtualization           ○ Window Managers
-│ QEMU                     │ Hyprland, DWM, DWL
+│ QEMU                     │ Hyprland, DWM, DWL, <strong>Niri</strong>
 │                          │
 ○ Documentation            ○ Text Editors
 │ Markdown, LaTeX          │ Vim, Neovim
