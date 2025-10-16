@@ -75,6 +75,7 @@ $ <strong>cat</strong> planet.txt
 </pre>
 
 <pre align="left" di="skills">
+  ```sh
   [x@xmachine skills]$ tree
   .
   ├── development
@@ -93,6 +94,7 @@ $ <strong>cat</strong> planet.txt
   │   └── shells: sh, bash, fish
   │
   └── editors: vim, neovim
+  ```
 </pre>
 
 <pre align="left" id="links--profiles">
