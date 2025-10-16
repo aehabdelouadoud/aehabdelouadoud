@@ -91,6 +91,41 @@ Documentation            ███         Markdown, LaTeX
 </pre>
 -->
 
+<pre align="left" di="skills">
+[x@xmachine skills]$ tree
+.
+├── version_control
+│   └── git, github, codeberg
+│
+├── operating_systems
+│   └── arch, nixos, freebsd(b), void_linux
+│
+├── virtualization
+│   └── qemu
+│
+├── window_managers
+│   └── hyprland, dwm, dwl, niri
+│
+├── documentation
+│   └── markdown, latex
+│
+├── text_editors
+│   └── vim, neovim
+│
+├── terminals
+│   └── foot, kitty
+│
+├── programming_languages
+│   └── c, c++, lua, rust, go(b), python(b)
+│
+├── shells
+│   └── sh, bash, fish
+│
+└── web_technologies
+    └── html, css
+</pre>
+
+<!--
 <pre align="center" di="skills">
 $ <strong>cat</strong> skills.txt
 ○ Version Control          ○ Operating Systems
@@ -108,6 +143,7 @@ $ <strong>cat</strong> skills.txt
 ○ Shells                   ○ Web Technologies
 │ sh, bash, fish           │ HTML, CSS
 </pre>
+-->
 
 <!-- Links & Profiles grouped by type -->
 <pre align="center" id="links--profiles">
