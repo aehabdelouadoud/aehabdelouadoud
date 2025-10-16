@@ -110,7 +110,7 @@ $ <strong>cat</strong> planet.txt
   │   ├── <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
   │   ├── <a href="https://x.com/aehabdelouadoud">X</a>
   │   ├── <a href="https://medium.com/@aehabdelouadoud">Medium</a>
-  │   ├── <a href="https://youtube.com/@aehabdelouadoud">YouTube</a>
+  │   ├── <a href="https://youtube.com/@TheXPolymath">YouTube</a>
   │   ├── <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
   │   └── <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
   │
