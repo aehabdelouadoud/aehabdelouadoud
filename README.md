@@ -131,7 +131,7 @@ $ <strong>cat</strong> dev_links
 $ <strong>cat</strong> social_links
 
 * <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
-* <a href="https://x.com/aehabdelouadoud">X</a>
+* <a href="https://x.com/thexpolymath">X</a>
 * <a href="https://medium.com/@aehabdelouadoud">Medium</a>
 * <a href="https://youtube.com/@aehabdelouadoud">YouTube</a>
 * <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
