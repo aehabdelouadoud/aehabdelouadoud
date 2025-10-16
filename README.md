@@ -74,103 +74,51 @@ $ <strong>cat</strong> planet.txt
   </p>
 </pre>
 
-<!-- Skills listing -->
-<!--
-<pre align="center" id="skills">
-$ cat skills.info
-Operating Systems        ██████████  Arch Linux, NixOS, FreeBSD, Void Linux
-Window Managers          ███████     Hyprland, DWM, DWL
-Shells                   ██████      sh, bash, fish
-Text Editors             ██████      Vim, Neovim
-Terminal Emulators       █████       Foot, Kitty
-Programming Languages    ████████    C, C++, Lua, Rust, Go
-Web Technologies         ███         HTML, CSS
-Version Control Systems  █████       Git, GitHub, Codeberg
-Virtualization           ██          QEMU
-Documentation            ███         Markdown, LaTeX
-</pre>
--->
-
 <pre align="left" di="skills">
-```bash
-[x@xmachine skills]$ tree
-.
-├── development
-│   ├── version_control
-│   │   ├── git/
-│   │   ├── github/
-│   │   └── codeberg/
-│   │
-│   ├── programming_languages
-│   │   ├── low_level/
-│   │   │   ├── c/
-│   │   │   └── c++/
-│   │   │
-│   │   ├── scripting/
-│   │   │   ├── lua/
-│   │   │   ├── python (b)/
-│   │   │   └── go (b)/
-│   │   │
-│   │   └── web/
-│   │       ├── html/
-│   │       └── css/
-│   │
-│   ├── documentation/
-│   │   ├── markdown/
-│   │   └── latex/
-│   │
-│   └── virtualization/
-│       └── qemu/
-│
-├── environment
-│   ├── operating_systems/
-│   │   ├── arch/
-│   │   ├── nixos/
-│   │   ├── freebsd (b)/
-│   │   └── void_linux/
-│   │
-│   ├── window_managers/
-│   │   ├── hyprland/
-│   │   ├── dwm/
-│   │   ├── dwl/
-│   │   └── niri/
-│   │
-│   ├── terminals/
-│   │   ├── foot/
-│   │   └── kitty/
-│   │
-│   └── shells/
-│       ├── sh/
-│       ├── bash/
-│       └── fish/
-│
-└── editors
-    ├── vim/
-    └── neovim/
-```
+  [x@xmachine skills]$ tree
+  .
+  ├── development
+  │   ├── version_control: git, github, codeberg
+  │   ├── programming_languages
+  │   │   ├── low_level: c, c++
+  │   │   ├── scripting: lua, python (b), go (b), rust
+  │   │   └── web: html, css
+  │   ├── documentation: markdown, latex
+  │   └── virtualization: qemu
+  │
+  ├── environment
+  │   ├── os: arch, nixos, freebsd (b), void_linux
+  │   ├── window_managers: hyprland, dwm, dwl, niri
+  │   ├── terminals: foot, kitty
+  │   └── shells: sh, bash, fish
+  │
+  └── editors: vim, neovim
 </pre>
 
-<!--
-<pre align="center" di="skills">
-$ <strong>cat</strong> skills.txt
-○ Version Control          ○ Operating Systems
-│ Git, GitHub, Codeberg    │ Arch, NixOS, FreeBSD(b), <strong>Void Linux</strong>
-│                          │
-○ Virtualization           ○ Window Managers
-│ QEMU                     │ Hyprland, DWM, DWL, <strong>Niri</strong>
-│                          │
-○ Documentation            ○ Text Editors
-│ Markdown, LaTeX          │ Vim, Neovim
-│                          │
-○ Terminals                ○ Programming Languages
-│ Foot, Kitty              │ C, C++, Lua, Rust, Go(b), Python(b)
-│                          │
-○ Shells                   ○ Web Technologies
-│ sh, bash, fish           │ HTML, CSS
+<pre align="left" id="links--profiles">
+  ```bash
+  [eren@voidlinux links]$ tree
+  .
+  ├── dev_links
+  │   ├── [gitlab](https://gitlab.com/aehabdelouadoud)
+  │   ├── [codeberg](https://codeberg.org/aehabdelouadoud)
+  │   └── [leetcode](https://leetcode.com/u/aehabdelouadoud)
+  │
+  ├── social_links
+  │   ├── [linkedin](https://linkedin.com/in/aehabdelouadoud)
+  │   ├── [x](https://x.com/aehabdelouadoud)
+  │   ├── [medium](https://medium.com/@aehabdelouadoud)
+  │   ├── [youtube](https://youtube.com/@aehabdelouadoud)
+  │   ├── [bluesky](https://bsky.app/profile/aehabdelouadoud.bsky.social)
+  │   └── [mastodon](https://mastodon.social/@aehabdelouadoud)
+  │
+  └── contact_links
+      ├── [email](mailto:mailme.dealt368@passinbox.com)
+      └── [discord](https://discord.com/users/1133976190709940345)
+  ```
 </pre>
--->
-
 <!-- Links & Profiles grouped by type -->
+<!--
 <pre align="left" id="links--profiles">
 $ <strong>cat</strong> dev_links
 
@@ -192,6 +140,7 @@ $ <strong>cat</strong> contact_links
 * <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
 * <a href="https://discord.com/users/1133976190709940345">Discord</a>
 </pre>
+-->
 
 <!-- Back to top navigation ↑ -->
 <p align="right"><a href="#top">^ back to top</a></p>
