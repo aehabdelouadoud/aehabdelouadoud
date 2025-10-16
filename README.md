@@ -92,37 +92,62 @@ Documentation            ███         Markdown, LaTeX
 -->
 
 <pre align="left" di="skills">
+```bash
 [x@xmachine skills]$ tree
 .
-├── version_control
-│   └── git, github, codeberg
+├── development
+│   ├── version_control
+│   │   ├── git/
+│   │   ├── github/
+│   │   └── codeberg/
+│   │
+│   ├── programming_languages
+│   │   ├── low_level/
+│   │   │   ├── c/
+│   │   │   └── c++/
+│   │   │
+│   │   ├── scripting/
+│   │   │   ├── lua/
+│   │   │   ├── python (b)/
+│   │   │   └── go (b)/
+│   │   │
+│   │   └── web/
+│   │       ├── html/
+│   │       └── css/
+│   │
+│   ├── documentation/
+│   │   ├── markdown/
+│   │   └── latex/
+│   │
+│   └── virtualization/
+│       └── qemu/
 │
-├── operating_systems
-│   └── arch, nixos, freebsd(b), void_linux
+├── environment
+│   ├── operating_systems/
+│   │   ├── arch/
+│   │   ├── nixos/
+│   │   ├── freebsd (b)/
+│   │   └── void_linux/
+│   │
+│   ├── window_managers/
+│   │   ├── hyprland/
+│   │   ├── dwm/
+│   │   ├── dwl/
+│   │   └── niri/
+│   │
+│   ├── terminals/
+│   │   ├── foot/
+│   │   └── kitty/
+│   │
+│   └── shells/
+│       ├── sh/
+│       ├── bash/
+│       └── fish/
 │
-├── virtualization
-│   └── qemu
-│
-├── window_managers
-│   └── hyprland, dwm, dwl, niri
-│
-├── documentation
-│   └── markdown, latex
-│
-├── text_editors
-│   └── vim, neovim
-│
-├── terminals
-│   └── foot, kitty
-│
-├── programming_languages
-│   └── c, c++, lua, rust, go(b), python(b)
-│
-├── shells
-│   └── sh, bash, fish
-│
-└── web_technologies
-    └── html, css
+└── editors
+    ├── vim/
+    └── neovim/
+```
 </pre>
 
 <!--
@@ -146,7 +171,7 @@ $ <strong>cat</strong> skills.txt
 -->
 
 <!-- Links & Profiles grouped by type -->
-<pre align="center" id="links--profiles">
+<pre align="left" id="links--profiles">
 $ <strong>cat</strong> dev_links
 
 * <a href="https://gitlab.com/aehabdelouadoud">GitLab</a>
