@@ -108,15 +108,15 @@ $ <strong>cat</strong> planet.txt
   │-->
   ├── social_links
   │   ├── <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
-  │   ├── <a href="https://x.com/thexpolymath">Twitter (X)</a>
-  <!-- │   ├── <a href="https://medium.com/@aehabdelouadoud">Medium</a>
-  │   ├── <a href="https://youtube.com/@TheXPolymath">YouTube</a>
-  │   ├── <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
-  │   └── <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a> -->
+  │   └── <a href="https://x.com/thexpolymath">Twitter (X)</a>
   │
   └── contact_links
       ├── <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
       └── <a href="https://discord.com/users/1133976190709940345">Discord</a>
+    <!-- │   ├── <a href="https://medium.com/@aehabdelouadoud">Medium</a>
+  │   ├── <a href="https://youtube.com/@TheXPolymath">YouTube</a>
+  │   ├── <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
+  │   └── <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a> -->
   ```
 </pre>
 <!-- Links & Profiles grouped by type -->
