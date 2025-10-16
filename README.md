@@ -79,7 +79,7 @@ $ <strong>cat</strong> planet.txt
   [x@xmachine skills]$ tree
   .
   ├── development
-  │   ├── version_control: git, github, codeberg
+  │   ├── version_control: git, github, codeberg, gitlab
   │   ├── programming_languages
   │   │   ├── low_level: c, c++
   │   │   ├── scripting: lua, python (b), go (b), rust
@@ -102,21 +102,21 @@ $ <strong>cat</strong> planet.txt
   [eren@voidlinux links]$ tree
   .
   ├── dev_links
-  │   ├── [gitlab](https://gitlab.com/aehabdelouadoud)
-  │   ├── [codeberg](https://codeberg.org/aehabdelouadoud)
-  │   └── [leetcode](https://leetcode.com/u/aehabdelouadoud)
+  │   ├── <a href="https://gitlab.com/aehabdelouadoud">GitLab</a>
+  │   ├── <a href="https://codeberg.org/aehabdelouadoud">CodeBerg</a>
+  │   └── <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
   │
   ├── social_links
-  │   ├── [linkedin](https://linkedin.com/in/aehabdelouadoud)
-  │   ├── [x](https://x.com/aehabdelouadoud)
-  │   ├── [medium](https://medium.com/@aehabdelouadoud)
-  │   ├── [youtube](https://youtube.com/@aehabdelouadoud)
-  │   ├── [bluesky](https://bsky.app/profile/aehabdelouadoud.bsky.social)
-  │   └── [mastodon](https://mastodon.social/@aehabdelouadoud)
+  │   ├── <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
+  │   ├── <a href="https://x.com/aehabdelouadoud">X</a>
+  │   ├── <a href="https://medium.com/@aehabdelouadoud">Medium</a>
+  │   ├── <a href="https://youtube.com/@aehabdelouadoud">YouTube</a>
+  │   ├── <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
+  │   └── <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a>
   │
   └── contact_links
-      ├── [email](mailto:mailme.dealt368@passinbox.com)
-      └── [discord](https://discord.com/users/1133976190709940345)
+      ├── <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
+      └── <a href="https://discord.com/users/1133976190709940345">Discord</a>
   ```
 </pre>
 <!-- Links & Profiles grouped by type -->
