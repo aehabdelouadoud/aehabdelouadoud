@@ -107,8 +107,8 @@ $ <strong>cat</strong> planet.txt
   │   └── <a href="https://leetcode.com/u/aehabdelouadoud">LeetCode</a>
   │-->
   ├── social_links
-  │   ├── <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a>
-  │   └── <a href="https://x.com/thexpolymath">Twitter (X)</a>
+  │   ├── <a href="https://linkedin.com/in/aehabdelouadoud">Linkedin</a>
+  │   └── <a href="https://x.com/thexpolymath">𝕏 (Twitter)</a>
   │
   └── contact_links
       ├── <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
