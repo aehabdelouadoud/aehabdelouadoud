@@ -111,8 +111,11 @@ $ <strong>cat</strong> planet.txt
   │   └── <a href="https://x.com/thexpolymath">𝕏 (Twitter)</a>
   │
   └── contact_links
-      ├── <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
-      └── <a href="https://discord.com/users/1133976190709940345">Discord</a>
+  │   ├── <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
+  │   └── <a href="https://discord.com/users/1133976190709940345">Discord</a>
+  └── Others
+      └── <a href="https://monkeytype.com/profile/thexpolymath">Monkeytype</a>  
+  
     <!-- │   ├── <a href="https://medium.com/@aehabdelouadoud">Medium</a>
   │   ├── <a href="https://youtube.com/@TheXPolymath">YouTube</a>
   │   ├── <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
