@@ -41,7 +41,7 @@
 <!-- Whoami section -->
 <pre align="center" id="whoami">
 $ <strong>whoami</strong>
-<strong>Systems thinker</strong>  ·  <a href="https://1337.ma/en/"><strong>1337</strong></a>/<a href="https://www.42network.org/"><strong>42</strong></a> Student  ·  </strong>Minimalist</strong>  ·  Perpetual student  ·  Perfectionist  ·  Problem-solver  ·  First-principles thinker
+<strong>Systems thinker</strong>  ·  <a href="https://1337.ma/en/"><strong>1337</strong></a>/<a href="https://www.42network.org/"><strong>42</strong></a> Student  ·  </strong>Minimalist</strong>  ·  Perpetual student  ·  Perfectionist  ·  First-principles thinker
 </pre>
 
 <!-- Planet ASCII art -->
