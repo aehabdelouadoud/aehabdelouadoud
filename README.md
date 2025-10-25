@@ -1,7 +1,7 @@
 <!-- Top anchor for back to top links -->
 <div id="top"></div>
 
-<img height="300" src="./assets/img/berserk.gif" align=right>
+<img height="320" src="./assets/img/berserk.gif" align=right>
 
 <p align="center">
   <samp>
