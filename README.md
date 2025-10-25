@@ -7,7 +7,7 @@
   </samp>
 </p>
 
-<img height="310" src="./assets/img/berserk.gif" align=right>
+<img height="250" src="./assets/img/berserk.gif" align=right>
 
 <!-- Animated GIF -->
 <!--
