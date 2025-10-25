@@ -54,6 +54,7 @@ $ <strong>whoami</strong>
 </pre>
 
 <!-- Planet ASCII art -->
+<!--
 <pre>
 $ <strong>cat</strong> hydra.txt
   <p align="center" id="hydra">⠀
@@ -81,6 +82,7 @@ $ <strong>cat</strong> hydra.txt
 ⠻⠶⠾⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠋
   </p>
 </pre>
+-->
 
 <pre align="left" di="skills">
   ```sh
