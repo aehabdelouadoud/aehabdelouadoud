@@ -87,7 +87,6 @@ $ <strong>cat</strong> hydra.txt
 -->
 
 <pre align="left" di="skills">
-  ```sh
   [x@xmachine skills]$ tree
   .
   ├── development
@@ -106,11 +105,9 @@ $ <strong>cat</strong> hydra.txt
   │   └── shells: sh, bash, fish
   │
   └── editors: vim, neovim
-  ```
 </pre>
 
 <pre align="left" id="links">
-  ```bash
   [eren@voidlinux links]$ tree
   <!--.
   ├── dev_links
@@ -132,7 +129,6 @@ $ <strong>cat</strong> hydra.txt
   │   ├── <a href="https://youtube.com/@TheXPolymath">YouTube</a>
   │   ├── <a href="https://bsky.app/profile/aehabdelouadoud.bsky.social">BlueSky</a>
   │   └── <a href="https://mastodon.social/@aehabdelouadoud">Mastodon</a> -->
-  ```
 </pre>
 <!-- Links & Profiles grouped by type -->
 <!--
